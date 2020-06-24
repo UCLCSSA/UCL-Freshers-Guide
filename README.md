@@ -67,7 +67,7 @@ Cuncti adsint meritaeque expectent praemia palmae.
 我们还在持续更新手册的内容。若您发现错误，或有内容想要投稿补充，欢迎email至 info@uclcssa.org 或通过其他方式联系我们。
 
 {% hint style="success" %}
-本手册开源并 host 于 github，欢迎直接前往 ****[**https://github.com/UCLCSSA/UCL-Freshers-Guide**](https://github.com/UCLCSSA/UCL-Freshers-Guide) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布。
+本手册开源并 host 于 github，欢迎直接前往 [https://github.com/UCLCSSA/UCL-Freshers-Guide](https://github.com/UCLCSSA/UCL-Freshers-Guide) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布。
 {% endhint %}
 
 ## 分享该手册
