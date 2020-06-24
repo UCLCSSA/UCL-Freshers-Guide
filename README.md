@@ -41,7 +41,7 @@ Cuncti adsint meritaeque expectent praemia palmae.
 {% hint style="info" %}
 联系我们
 
-`学联官网` www.uclucssa.org
+`学联官网` [www.uclcssa.org](https://www.uclcssa.org)
 
 `微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl) 
 
