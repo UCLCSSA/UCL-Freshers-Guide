@@ -2,7 +2,7 @@
 
 ## 实习及工作
 
-![img](.gitbook/assets/ucl6.jpg)
+![](.gitbook/assets/ucl6.jpg)
 
 在西方求职，面试有一定的套路，一般情况下, 雇佣者主要向应聘者提一些普通问题，侧重于了解应聘者的表达能力，应变能力以及专业水平等。最常被问到的问题往往包括:请简单介绍一下您自己, 您的同事们怎样描述您，您近期的工作目标是什么，您打算怎么实现这一目标，为什么要申请这个职位，我为什么应该聘请您做我的雇员等。
 
@@ -38,7 +38,9 @@
 
 可登陆 [http://www.ud.ac.uk/maps](http://www.ud.ac.uk/maps) 查询图书馆、教室、 学生宿舍以及服务设施的地点。
 
-!!! info UCL Online Library Services \(网络图书馆\) [https://www.ucl.ac.uk/library/eresources.shtml](https://www.ucl.ac.uk/library/eresources.shtml)
+{% hint style="info" %}
+UCL Online Library Services \(网络图书馆\) [https://www.ucl.ac.uk/library/eresources.shtml](https://www.ucl.ac.uk/library/eresources.shtml)
+{% endhint %}
 
 Student centre 是UCL斥巨资建立的一个超豪华图书馆，24h开放，有千余座位，馆内设置了café,学习小组讨论房间，安静自习室，在里面可以讲话的学习室。配备的电脑都是最新的，也可以租借笔记本电脑～底层可以洗澡，café的微波炉可以热饭（精致大学生的福音），楼顶还有超大露台，学习累了可以上去坐坐，吹吹风，俯瞰伦敦景观… 设施非常齐全，非常推荐大家去，不过论文季基本人满为患，需要大家提前去占座～
 
@@ -50,5 +52,7 @@ UCL 一共有18+图书馆，另外一些比较好的图书馆有
 * UCL Science Library
 * UCL Institute of Education Library
 
-!!! tips 大多数图书馆都有安静学习区和小组讨论区，图书馆开馆时间也不尽相同，大家可以自行上官网浏览。
+{% hint style="success" %}
+大多数图书馆都有安静学习区和小组讨论区，图书馆开馆时间也不尽相同，大家可以自行上官网浏览。
+{% endhint %}
 

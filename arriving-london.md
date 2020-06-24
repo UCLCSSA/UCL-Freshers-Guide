@@ -2,7 +2,7 @@
 
 ## 租房与住房
 
-![img](.gitbook/assets/ucl5.jpg)
+![Institute of Education \(IOE\)](.gitbook/assets/ucl5.jpg)
 
 [http://www.rightmove.co.uk/](http://www.rightmove.co.uk/) 用于在网上寻找室友合租，需自行联络中介或房东。
 
@@ -10,7 +10,9 @@
 
 [https://www.foxtons.co.uk/](https://www.foxtons.co.uk/) Foxtons为英国大型房屋租赁公司，价格较高但非常可信。
 
-!!! tip "提示" 在英国租房通常签订9个月或者12个月的合同，房客需要缴纳一定的押金并需提前交付房租\(如有担保\) 人则可减少一部分提交缴纳的费用，一些房屋中介允许UCL校方作为学生的担保人, 学生可在入学后向UCL Housing Service提交此类申请\)。
+{% hint style="info" %}
+在英国租房通常签订9个月或者12个月的合同，房客需要缴纳一定的押金并需提前交付房租\(如有担保\) 人则可减少一部分提交缴纳的费用，一些房屋中介允许UCL校方作为学生的担保人, 学生可在入学后向UCL Housing Service提交此类申请\)。
+{% endhint %}
 
 ### 租房定金 Deposit
 
@@ -22,7 +24,9 @@
 
 检查你的合同是否是正式合同，而不是精简版合同。\(黑中介会让你签订精简版合同，签订精简版合同的同时也就意味着你签了他们的"正式合同 "。"正式合同"不保护房客权益。你在入住时遇到维修等问题时，黑中介会拿出"正式版合同"与你争执。所以在和房东/中介签订合同的时候，一定要看清楚每一条条款，因为一旦签字合同达成，就具有法律效力，即使合同中有一些不太合理的条款。比如说有些房屋中介的合同条款复杂冗长，而且一些费用的收取都隐藏在一些不明显的地方。另外签订合同时，注意看有没有中止条款\(breakclause\),以防止房东突然停止合同。建议最好在签订合同以前仔细阅读并和房东/中介协商不合理条款。并且在签订合同之后保存好和中介/房东的所有书面交流记录。
 
-!!! tip "提示" 学联建议大家在签订合同之前去UCL Rights and Advice Centre让法律顾问审阅合同并提供专业法律意见\(对UCL学生免费服务\)，地点位于Bloomsbury Theatre。
+{% hint style="warning" %}
+学联建议大家在签订合同之前去UCL Rights and Advice Centre让法律顾问审阅合同并提供专业法律意见\(对UCL学生免费服务\)，地点位于Bloomsbury Theatre。
+{% endhint %}
 
 ### 财产保护 Property protection
 
@@ -38,41 +42,41 @@
 
 Unite集团是英国历史最悠久的学生公寓管理公司，在全英国有超过130多家高档学生公寓，覆盖超过30个城市，Unite集团在伦敦拥有很多大型学生社区，预订指定学生公寓，可获得公寓组织的伦敦一日游活动。其所有的学生公寓都按照现代化的管理模式，拥有24小时电子监控设备。
 
-!!! info `价格` 200-320/周价格不等
+{% hint style="info" %}
+`价格` 200-320/周价格不等 
 
-```text
-`设施` 较好
+`设施` 较好 
 
-`交通` 便利优良
+`交通` 便利优良 
 
-`网站` http://www.unitestudents.com/
-```
+`网站` [http://www.unitestudents.com/](http://www.unitestudents.com/)
+{% endhint %}
 
 ### Nido学生公寓
 
 Nido设计巧妙。提供时尚、现代的膳宿。公寓楼分别坐落于King's Cross, Spitalfield 和 Notting Hill, 均位于伦敦市区的中心地段。学生能方便快捷地到达每个大学和伦敦各处。Nido服务齐全，包括超快速有线\(光纤\)和无线网络宽带、24/7全天候安全保障、室内维修团队、健身房、洗衣服务、公寓打扫。
 
-!!! info `价格` 199-400/周价格不等
+{% hint style="info" %}
+`价格` 199-400/周价格不等 
 
-```text
-`设施` 很好
+`设施` 很好 
 
-`交通` 便利优良
+`交通` 便利优良 
 
-`网站` http://www.nidostudent.com/
-```
+`网站` [http://www.nidostudent.com/](http://www.nidostudent.com/)
+{% endhint %}
 
 ### IQ Bloomsburry
 
 IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main campus只需5分钟。宿舍内每层都有一到两个不同种类的公共休息室，适合朋友聚会。另外舞蹈室，美术室，游戏屋，音乐房，健身房，洗衣房等设施也很齐全，水电网费都包含在房租里，房间设施很新，屋内都有厨房和浴室，书桌衣柜也都设备齐全。
 
-!!! info `价格` 300-500/周价格不等
+{% hint style="info" %}
+`价格` 300-500/周价格不等 
 
-```text
-`设施` 很好                                                                                                                         
+`设施` 很好 
 
 `交通` 便利/很便利
-```
+{% endhint %}
 
 ## 饮食
 

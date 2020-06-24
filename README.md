@@ -2,21 +2,29 @@
 
 ## UCL简介
 
-!!! note "提示" 电脑版可访问 [uclcssa.cn/book](//uclcssa.cn/book) 查看此手册
 
-![img](.gitbook/assets/ucl1.jpg)
+
+{% hint style="success" %}
+电脑版可访问 [uclcssa.cn/book](//uclcssa.cn/book) 查看此手册
+{% endhint %}
+
+![UCL&#x6B63;&#x95E8;](.gitbook/assets/ucl1.jpg)
 
 伦敦大学学院（University College London），简称UCL，建校于1826年，位于英国伦敦，是一所世界著名的顶尖高等学府，为享有顶级学术声誉的综合研究型大学。它是伦敦大学联盟University of London（简称UOL）的创校学院，与剑桥大学、牛津大学、帝国理工大学、伦敦政治经济学院并称“G5超级精英大学“。“G5超级精英大学”代表了英国最顶尖的科研实力、师生质量以及经济实力。
 
 伦敦大学学院不仅拥有全球领先的医学院、经济学院、建筑学院、工程科学学院，其理论物理与数学、空间科学、统计学、生命科学、计算神经科学、计算机科学、机器学习与人工智能、电子电气工程、化学与化学工程、土木工程、法学、地理学、教育学、社会与人文科学等领域的卓越成就也名扬世界。学院创始之初拥有医学院、数学与物理学院、工程科学学院和社会科学学院，后逐渐扩至11个大学院。
 
-!!! quote "校训" Cuncti adsint meritaeque expectent praemia palmae.
+!!! quote "" 
 
-```text
-(Let all come who by merit deserve the most reward.)
+{% hint style="info" %}
+**校训**
 
- ——Jeremy Bentham
-```
+Cuncti adsint meritaeque expectent praemia palmae. 
+
+\(Let all come who by merit deserve the most reward.\) 
+
+——Jeremy Bentham
+{% endhint %}
 
 ## 序
 
@@ -34,13 +42,15 @@
 
 学联日常活动主要包括学术讲座、就业指导以及文体活动等。除此之外，学联每年8-9月还会代表UCL校方在北京、上海、深圳、成都等地为UCL的新生举办大型的临行准备会。该活动以UCL学联为平台，更加紧密的将学生、学联、学校三方团结起来，互帮互助，增进了解。简单来说：伦大学联就是一个给小伙伴们办活动、送福利、提供信息、交流感情的大家庭！学联下属的不同部门，也会尽全力去满足大家在不同方面的学习、成长和生活需求。
 
-!!! info "联系我们" `学联官网` www.uclucssa.org
+{% hint style="info" %}
+联系我们
 
-```text
-`微博` “伦敦大学学院-中国学联” http://www.weibo.com/cssaucl
+`学联官网` www.uclucssa.org
+
+`微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl) 
 
 `微信公众号` UCLCSSA
-```
+{% endhint %}
 
 ## 学联社区小程序
 
@@ -48,13 +58,11 @@
 
 使用微信扫一扫小程序码，或直接长按以下图片即可立刻前往。在小程序里也可以找到本手册哦！
 
-![img](.gitbook/assets/miniprogram.png)
+![UCLCSSA&#x5B66;&#x8054;&#x793E;&#x533A;&#x5C0F;&#x7A0B;&#x5E8F;&#xFF08;&#x5FAE;&#x4FE1;&#x626B;&#x7801;&#x5373;&#x53EF;&#x4F7F;&#x7528;&#xFF09;](.gitbook/assets/miniprogram.png)
 
-!!! success "提示" 在小程序内点击右上角三点“添加到我的小程序”，即可下次快速找到学联社区。
-
-```text
- 在小程序内阅读本手册可以自动记录阅读进度！
-```
+{% hint style="success" %}
+在小程序内点击右上角三点“添加到我的小程序”，即可下次快速找到学联社区。
+{% endhint %}
 
 ## 使用该手册
 
@@ -62,7 +70,9 @@
 
 我们还在持续更新手册的内容。若您发现错误，或有内容想要投稿补充，欢迎email至 info@uclcssa.org 或通过其他方式联系我们。
 
-!!! tips "For Github Users" 本手册开源并 host 于 github，欢迎直接前往 [https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/](https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布。
+{% hint style="success" %}
+本手册开源并 host 于 github，欢迎直接前往 ****[**https://github.com/UCLCSSA/UCL-Freshers-Guide**](https://github.com/UCLCSSA/UCL-Freshers-Guide) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布。
+{% endhint %}
 
 ## 分享该手册
 
@@ -70,9 +80,9 @@
 
 伦大学联是一个非盈利性组织，该手册及小程序 & 网页版手册均由UCLCSSA成员自发制作，分享给有需要的人的同时也能帮助我们继续维护和更新。
 
-!!! info "提示" 若您是在微信或小程序内阅读本手册，点击右上角三点，点击转发即可分享给其他人。
+{% hint style="info" %}
+若您是在微信或小程序内阅读本手册，点击右上角三点，点击转发即可分享给其他人。
 
-```text
 若您在使用浏览器，您可以复制并发送链接 `https://uclcssa.cn/book/` 给其他人。
-```
+{% endhint %}
 

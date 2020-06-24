@@ -2,21 +2,27 @@
 
 ## 签证政策
 
-![img](.gitbook/assets/ucl4.jpg)
+![&#x4E3B;&#x56FE;&#x5185;&#x96D5;&#x50CF;](.gitbook/assets/ucl4.jpg)
 
 自2018年7月6日（并包含7月6日，此处日期指在线付费的日期，而非去递交材料的日期），中国公民办理英国T4学生签证不再需要资金证明、学历证明和英语语言成绩证明，即使不在国籍所在国申请签证也同样无需提供。所有签证材料需要原件和复印件，非英文材料需要认证翻译成英文（国内签证中心均提供翻译服务），更新后所需材料如下：
 
 * 有效护照
 
-!!! tip "提示" 护照至少有一页正反面均为空白页，两面不能有任何使用记录 · 护照信息页和签名页的复印件
+{% hint style="warning" %}
+护照至少有一页正反面均为空白页，两面不能有任何使用记录 · 护照信息页和签名页的复印件
+{% endhint %}
 
 * 旧护照（如果没有则不需要提供）
 
-!!! tip "提示" 尾页要有签名 旧护照首页及尾页的复印件
+{% hint style="warning" %}
+尾页要有签名 旧护照首页及尾页的复印件
+{% endhint %}
 
 * CAS信件
 
-!!! warning "注意" 确认录取后，一周内学校会在Portico发出你的CAS，上面有你全部的个人信息。这份文件需要打印出来以便在办理签证的时候使用。
+{% hint style="info" %}
+确认录取后，一周内学校会在Portico发出你的CAS，上面有你全部的个人信息。这份文件需要打印出来以便在办理签证的时候使用。
+{% endhint %}
 
 * 高中成绩单
 * —张两寸照片
@@ -31,7 +37,9 @@
 
 约人民币3100元（335英镑），需要直接在线支付。医疗附加费，150镑/年。
 
-!!! warning "重要提示" 虽然不需要在申请签证时提供资金证明、学历证明和英语语言成绩证明，但并不代表学生可以不满足这些要求，其中包括签证及移民局和Tier4担保方（即UCL）的要求，UKVI仍保留以随机抽查的方式要求完整资料的权利。
+{% hint style="warning" %}
+虽然不需要在申请签证时提供资金证明、学历证明和英语语言成绩证明，但并不代表学生可以不满足这些要求，其中包括签证及移民局和Tier4担保方（即UCL）的要求，UKVI仍保留以随机抽查的方式要求完整资料的权利。
+{% endhint %}
 
 抽查概率：较低，绝大部分人不会被抽查到
 
@@ -54,11 +62,9 @@
 7. CAS信、录取证明：办理入学手续时需要出示。
 8. BRP：BRP既为生物信息卡，需要在到达英国十天内领取，可以在学校预约时间领取。
 
-!!! warning "注意" 不参加ISOP的同学要有Enrollment的预约信。
-
-```text
-此类证件千万不要托运！
-```
+{% hint style="danger" %}
+不参加ISOP的同学要有Enrollment的预约信。此类证件千万不要托运！
+{% endhint %}
 
 ## 行前日用品清单
 
@@ -93,13 +99,13 @@ Enrol之前必须要交1/3（即第一个学期）的学费，剩下的2/3须在
 
 需要在入境七天内到警局注册，届时会需要准备好的注册表（可在官网下载）、两张护照照片、护照原件及签证复印件一份、地址证明和34镑注册费。由于每年入境的新生都很多，建议起早去排队来节省时间。所有新生（刚刚获得学生签证的学生）均需要前往注册。
 
-!!! info "信息" 地点：Overseas Visitors Records office , 323 Borough High Street, London，SE11JU，
+{% hint style="info" %}
+地点：Overseas Visitors Records office , 323 Borough High Street, London，SE11JU
 
-```text
-最近地铁站：Borough Station
+最近地铁站：Borough Station 
 
-网址：content.met.police.uk
-```
+网址：[content.met.police.uk](https://content.met.police.uk)
+{% endhint %}
 
 ## ISOP官方新生活动 \(Optional\)
 
@@ -113,7 +119,7 @@ Enrol之前必须要交1/3（即第一个学期）的学费，剩下的2/3须在
 
 如需要提前入住，必须向UCL Residence Office申请并确认，多出的宿舍费会在Portico的Invoice当中显示。
 
-www.ucl.ac.uk/prospective-students/accommodation
+[https://www.ucl.ac.uk/prospective-students/accommodation](https://www.ucl.ac.uk/prospective-students/accommodation)
 
 ## UCL Moodle
 

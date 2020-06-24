@@ -16,7 +16,9 @@
 
 我们还在持续更新手册的内容。若您有内容想要投稿补充或发现错误，欢迎Email至 info@uclcssa.org 或通过微信公众号等其他方式联系我们。
 
-!!! tips "For Github Users" 本手册开源并 host 于 github，欢迎直接前往 [https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/](https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布！
+{% hint style="success" %}
+本手册开源并 host 于 github，欢迎直接前往 ****[**https://github.com/UCLCSSA/UCL-Freshers-Guide**](https://github.com/UCLCSSA/UCL-Freshers-Guide) 进行编辑并发送Pull Request，你的贡献将以最快的方式发布。
+{% endhint %}
 
 ## 关于
 
