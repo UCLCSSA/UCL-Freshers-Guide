@@ -3,7 +3,7 @@
 ## UCL简介
 
 {% hint style="success" %}
-电脑版可访问 [uclcssa.cn/book](//uclcssa.cn/book) 查看此手册
+电脑版可访问 [book.uclcssa.cn](https://book.uclcssa.cn) 查看此手册
 {% endhint %}
 
 ![UCL&#x6B63;&#x95E8;](.gitbook/assets/ucl1.jpg)
@@ -79,6 +79,6 @@ Cuncti adsint meritaeque expectent praemia palmae.
 {% hint style="info" %}
 若您是在微信或小程序内阅读本手册，点击右上角三点，点击转发即可分享给其他人。
 
-若您在使用浏览器，您可以复制并发送链接 `https://uclcssa.cn/book/` 给其他人。
+若您在使用浏览器，您可以复制并发送链接 `https://book.uclcssa.cn/` 给其他人。
 {% endhint %}
 
