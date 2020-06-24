@@ -1,0 +1,49 @@
+site_name: UCLCSSA新生手册
+theme:
+  name: "material"
+  language: "zh"
+  icon:
+    logo: fontawesome/solid/book-reader
+  palette:
+    primary: "red"
+    accent: "pink"
+  features:
+    - tabs
+    - instant
+
+copyright: "Copyright &copy; 2002 - 2020 UCLCSSA"
+
+# [AUTO-INJECT-NAV]
+
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.def_list
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+
+extra_css:
+  - "stylesheets/style.css"
+
+extra_javascript:
+  - "js/baidu.js"
+
+extra:
+  social:
+    - icon: fontawesome/solid/link
+      link: "https://www.uclcssa.org/"
+    - icon: fontawesome/brands/facebook
+      link: "https://www.facebook.com/691076590989125/"
+    - icon: fontawesome/brands/weibo
+      link: "https://www.weibo.com/cssaucl/"
+    - icon: fontawesome/brands/github-alt
+      link: "https://github.com/uclcssa"
+
+google_analytics:
+  - "UA-128171628-5"
+  - "auto"
