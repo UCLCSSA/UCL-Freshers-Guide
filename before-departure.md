@@ -102,7 +102,7 @@ Enrol之前必须要交1/3（即第一个学期）的学费，剩下的2/3须在
 {% hint style="info" %}
 地点：Overseas Visitors Records office , 323 Borough High Street, London，SE11JU
 
-最近地铁站：Borough Station 
+最近地铁站：Borough Station
 
 网址：[content.met.police.uk](https://content.met.police.uk)
 {% endhint %}

@@ -15,9 +15,9 @@
 {% hint style="info" %}
 **校训**
 
-Cuncti adsint meritaeque expectent praemia palmae. 
+Cuncti adsint meritaeque expectent praemia palmae.
 
-\(Let all come who by merit deserve the most reward.\) 
+\(Let all come who by merit deserve the most reward.\)
 
 ——Jeremy Bentham
 {% endhint %}
@@ -43,7 +43,7 @@ Cuncti adsint meritaeque expectent praemia palmae.
 
 `学联官网` [www.uclcssa.org](https://www.uclcssa.org)
 
-`微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl) 
+`微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl)
 
 `微信公众号` UCLCSSA
 {% endhint %}
