@@ -59,6 +59,6 @@ jobs:
           git push
           
       - name: Deploy MkDocs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
+        uses: UCLCSSA/mkdocs-deploy-gh-pages@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.HENRY_TOKEN }}
