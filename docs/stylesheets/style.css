@@ -153,6 +153,13 @@ blockquote p {
   .md-nav--secondary {
     margin-left: 30%;
   }
+
+  .md-footer-meta__inner {
+    margin-left: 7%;
+  }
+  .md-footer-nav {
+    margin-left: 7%;
+  }
 }
 
 /* fix right side bar */
