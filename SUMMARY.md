@@ -8,7 +8,3 @@
 * [紧急求助及UCL服务](useful-links-and-wellbeing.md)
 * [新生手册编写人员](about.md)
 
-## 测试一下 <a id="test-folder"></a>
-
-* [Test again](test-folder/test.md)
-

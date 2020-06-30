@@ -38,5 +38,5 @@ Customer Services Centre: efdservices@ucl.ac.uk
 
 ### UCL Chinese Students and Scholars Association
 
-Website: [www.uclcssa.org](https://github.com/UCLCSSA/UCL-Freshers-Guide/tree/7795baa23158a30cb3bf43db10001a4f8f112b24/www.uclcssa.org)
+Website: [https://www.uclcssa.org](https://www.uclcssa.org)
 
