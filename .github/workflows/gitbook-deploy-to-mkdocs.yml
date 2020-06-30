@@ -57,3 +57,6 @@ jobs:
           git add .
           git commit -m "Run python"
           git push
+          
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
