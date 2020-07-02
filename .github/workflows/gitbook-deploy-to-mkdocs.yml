@@ -26,9 +26,9 @@ jobs:
           force: true
 
       - name: Copycat
-        uses: henryz00/copycat-action@master
+        uses: andstor/copycat-action@v3.2.3
         with:
-          personal_token: ${{ secrets.HENRY_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           src_path: /.
           dst_path: /docs/.
           src_branch: gitbook
