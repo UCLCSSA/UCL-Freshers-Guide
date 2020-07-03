@@ -53,8 +53,8 @@ jobs:
       - run: |
           python gitbook2mkdocs.py
           rm gitbook2mkdocs.py
-          git config --global user.name 'Henry'
-          git config --global user.email 'henryz00@users.noreply.github.com'
+          git config --global user.name 'UCLCSSA'
+          git config --global user.email 'uclcssa-info@users.noreply.github.com'
           git add .
           git commit -m "Run python"
           git push
