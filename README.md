@@ -43,10 +43,6 @@ Cuncti adsint meritaeque expectent praemia palmae.
 
 `学联官网` [www.uclcssa.org](https://www.uclcssa.org)
 
-`Instagram` [https://www.instagram.com/uclcssa\_official/](https://www.instagram.com/uclcssa_official/)
-
-`Facebook` [https://www.facebook.com/uclcssa.official/](https://www.facebook.com/uclcssa.official/)
-
 `微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl)
 
 `微信公众号` UCLCSSA
