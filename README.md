@@ -6,6 +6,10 @@
 电脑版可访问 [book.uclcssa.cn](https://book.uclcssa.cn) 查看此手册
 {% endhint %}
 
+{% hint style="warning" %}
+此2020年版新生手册的内容还在持续补充中
+{% endhint %}
+
 ![UCL&#x6B63;&#x95E8;](.gitbook/assets/ucl1.jpg)
 
 伦敦大学学院（University College London），简称UCL，建校于1826年，位于英国伦敦，是一所世界著名的顶尖高等学府，为享有顶级学术声誉的综合研究型大学。它是伦敦大学联盟University of London（简称UOL）的创校学院，与剑桥大学、牛津大学、帝国理工大学、伦敦政治经济学院并称“G5超级精英大学“。“G5超级精英大学”代表了英国最顶尖的科研实力、师生质量以及经济实力。
@@ -42,6 +46,10 @@ Cuncti adsint meritaeque expectent praemia palmae.
 联系我们
 
 `学联官网` [www.uclcssa.org](https://www.uclcssa.org)
+
+`Instagram` [https://www.instagram.com/uclcssa\_official/](https://www.instagram.com/uclcssa_official/)
+
+`Facebook` [https://www.facebook.com/uclcssa.official/](https://www.facebook.com/uclcssa.official/)
 
 `微博` “伦敦大学学院-中国学联” [http://www.weibo.com/cssaucl](http://www.weibo.com/cssaucl)
 
