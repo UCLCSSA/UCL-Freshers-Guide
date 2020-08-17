@@ -6,7 +6,7 @@
 
 UCL 一共有3 个属于自己的博物馆：埃及考古博物馆（Petrie Museum of Egyptian Archaeology），动物博物馆 （Grant Museum of Zoology）和艺术博物馆（Art Museum），博物 馆同时也向公众开放。 
 
-1. The Grant Museum of Zoology 
+#### 1. The Grant Museum of Zoology 
 
 成立于1828 年，博物馆内收录了几乎是整个动物王国的68,000 个物种的骨骼框架和标本， 大到很多已经灭绝动物的骨骼、小到瓶瓶罐罐里装有的细小生物。藏品包括已经灭绝的塔斯马 尼亚虎和袋狼，斑驴和渡渡鸟。 
 
@@ -16,7 +16,7 @@ UCL 一共有3 个属于自己的博物馆：埃及考古博物馆（Petrie Muse
 
 ![](.gitbook/assets/image%20%289%29.png)
 
-2. The Petrie Museum of Egyptian Archaeology 
+#### 2. The Petrie Museum of Egyptian Archaeology 
 
 藏有约80000 件文物，是世界上埃及和苏丹考 古学最伟大的收藏品之一。它的展品描绘了尼罗河 流域从史前到法老、托勒密、罗马和科普特时期到 伊斯兰时期的生活。 
 
@@ -26,7 +26,7 @@ UCL 一共有3 个属于自己的博物馆：埃及考古博物馆（Petrie Muse
 
 ![](.gitbook/assets/image%20%2873%29.png)
 
-3. UCL Art Museum
+#### 3. UCL Art Museum
 
 UCL 艺术博物馆位于UCL 中心的传统印刷室。藏有超过1 万件艺术作品，这些都可以通过临时展览和在大学校园内展示的方式向公众开放。在伦敦大学学院图书馆的穹顶下是莱克斯曼美术馆，它是莱克斯曼大量艺术作品收藏的顶峰，在独特的建筑环境中展示艺术家的石膏模型。
 
