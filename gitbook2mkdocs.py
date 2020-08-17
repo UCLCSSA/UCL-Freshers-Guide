@@ -44,7 +44,7 @@ def hint_group(groups):
     hint_type = groups.group(1)
     hint_content = groups.group(2)
     hint_content = hint_content.replace("\n", "\n\t")
-    return "!!! " + hint_type + " '提示' \n" + hint_content
+    return '!!! ' + hint_type + ' "提示" \n' + hint_content
 
 
 for md_file in glob.glob("*.md"):
