@@ -6,5 +6,7 @@
 * [行前准备](arriving-london.md)
 * [初到伦敦](university-life.md)
 * [伦敦生活](useful-links-and-wellbeing.md)
-* [新生手册编写人员](about.md)
+* [疫情之下](about.md)
+* [特别鸣谢](te-bie-ming-xie.md)
+* [写在最后](xie-zai-zui-hou.md)
 
