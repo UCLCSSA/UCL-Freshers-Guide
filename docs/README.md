@@ -1,12 +1,12 @@
 # 序
 
-![](.gitbook/assets/image%20%2867%29.png)
+![](images/image%20%2867%29.png)
 
-![](.gitbook/assets/image%20%2876%29.png)
+![](images/image%20%2876%29.png)
 
 ​                      
 
-![](.gitbook/assets/image%20%2838%29.png)
+![](images/image%20%2838%29.png)
 
 ## 序言
 

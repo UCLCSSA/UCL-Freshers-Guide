@@ -48,7 +48,7 @@
 
 5. UCL Timetable 查询个人时间表及部门或专业时间表 网址：[https://timetable.ucl.ac.uk](https://timetable.ucl.ac.uk)
 
-![](.gitbook/assets/image%20%2880%29.png)
+![](images/image%20%2880%29.png)
 
 
 
