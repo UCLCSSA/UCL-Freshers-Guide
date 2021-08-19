@@ -9,5 +9,4 @@
 * [关于 UCL CSSA](guan-yu-uclcssa.md)
 * [特别鸣谢](te-bie-ming-xie-1.md)
 * [写在最后](xie-zai-zui-hou.md)
-* [Hello World](hello-world.md)
 
