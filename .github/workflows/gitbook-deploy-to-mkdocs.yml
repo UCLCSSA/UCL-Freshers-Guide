@@ -63,4 +63,3 @@ jobs:
         uses: UCLCSSA/mkdocs-deploy-gh-pages@master
         env:
           PERSONAL_TOKEN: ${{ secrets.HENRY_TOKEN }}
-          CUSTOM_DOMAIN: book.uclcssa.cn
