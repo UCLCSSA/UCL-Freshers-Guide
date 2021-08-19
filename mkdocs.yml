@@ -26,6 +26,8 @@ markdown_extensions:
       repo_url_shorthand: true
       user: squidfunk
       repo: mkdocs-material
+  - pymdownx.tasklist:
+      clickable_checkbox: true
 
 extra_css:
   - "stylesheets/style.css"
