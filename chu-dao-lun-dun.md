@@ -80,6 +80,10 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 
 ### 线下注册材料准备
 
+{% hint style="success" %}
+准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
+{% endhint %}
+
 1. [ ] 护照
 2. [ ] BRP
 3. [ ] 住宿地址证明（宿舍Offer或是租房合同）
@@ -98,6 +102,10 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 ![&#x5173;&#x4E8E;&#x82F1;&#x56FD;&#x94F6;&#x884C;&#x8BE6;&#x7EC6;&#x4ECB;&#x7ECD;&#x8BF7;&#x626B;&#x63CF;&#x4E8C;&#x7EF4;&#x7801;&#x67E5;&#x770B;&#x63A8;&#x6587;](.gitbook/assets/jie-ping-20210819-shang-wu-1.52.11.png)
 
 ### 开户材料准备
+
+{% hint style="success" %}
+准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
+{% endhint %}
 
 1. [ ] 带有签证页的护照
 2. [ ] BRP
