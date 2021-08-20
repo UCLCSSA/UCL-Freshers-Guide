@@ -99,8 +99,6 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 
 英国海关允许携带最多£10,000入境英国。
 
-![&#x5173;&#x4E8E;&#x82F1;&#x56FD;&#x94F6;&#x884C;&#x8BE6;&#x7EC6;&#x4ECB;&#x7ECD;&#x8BF7;&#x626B;&#x63CF;&#x4E8C;&#x7EF4;&#x7801;&#x67E5;&#x770B;&#x63A8;&#x6587;](.gitbook/assets/jie-ping-20210819-shang-wu-1.52.11.png)
-
 ### 开户材料准备
 
 {% hint style="success" %}
@@ -109,7 +107,7 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 
 1. [ ] 带有签证页的护照
 2. [ ] BRP
-3. [ ] 在读证明（学生状态声明，必须在完全完成注册后再从portico下载打印）
-4. [ ] 住宿地址证明（请务必将term-time address更改为英国居住地址，因为银行卡将会直接快递到你所填写的地址）
-5. [ ] bank letter（完全完成注册后从portico下载打印）
+3. [ ] 在读证明（学生状态声明，必须在完全完成注册后再从Portico下载打印）
+4. [ ] 住宿地址证明（请务必将Term-Time Address更改为英国居住地址，因为银行卡将会直接快递到你所填写的地址）
+5. [ ] Bank Letter（完全完成注册后从Portico下载打印）
 
