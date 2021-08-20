@@ -1,0 +1,28 @@
+name: Tencent CloudBase CI/CD
+
+on:
+  push:
+    branches: [ gh-pages ]
+
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+
+    name: Deploy static website to Tencent CloudBase
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get cloudbaserc.json from `tcb` branch
+        uses: actions/checkout@v2
+        with:
+          ref: tcb
+
+      - name: Deploy to Tencent CloudBase
+        uses: TencentCloudBase/cloudbase-action@v2
+        with:
+          secretId: ${{secrets.CLOUDBASE_SECRET_ID}}
+          secretKey: ${{secrets.CLOUDBASE_SECRET_KEY}}
+          envId: ${{secrets.CLOUDBASE_ENV_ID}}
