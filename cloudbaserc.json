@@ -1,0 +1,24 @@
+{
+    "version": "2.0",
+    "envId": "{{env.envId}}",
+    "framework": {
+        "name": "uclcssa-fresher-guide-website",
+        "plugins": {
+            "client": {
+                "use": "@cloudbase/framework-plugin-website",
+                "inputs": {
+                    "outputPath": "./",
+                    "ignore": [
+                        ".git",
+                        ".github",
+                        "node_modules",
+                        "cloudbaserc.json",
+                        ".gitignore",
+                        "./README.md"
+                    ]
+                }
+            }
+        }
+    },
+    "region": "ap-shanghai"
+}
