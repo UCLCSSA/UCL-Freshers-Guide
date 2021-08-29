@@ -1,0 +1,65 @@
+name: gitbook-deploy-to-mkdocs
+
+on:
+  push:
+    branches:
+      - "gitbook"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Mirror Branch
+        uses: henryz00/mirror-branch@latest-release
+        with:
+          source-branch: mkdocs-template
+          target-branch: master
+          token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+
+      - name: Copycat
+        uses: andstor/copycat-action@v3.2.3
+        with:
+          personal_token: ${{ secrets.HENRY_TOKEN }}
+          src_path: /.
+          dst_path: /docs/.
+          src_branch: gitbook
+          dst_branch: master
+          dst_owner: UCLCSSA
+          dst_repo_name: UCL-Freshers-Guide
+          
+      - run: |
+          pwd
+          ls
+          sudo chown -R $USER:$USER .
+          
+      - uses: actions/checkout@v2
+        with:
+          ref: master
+          
+      - name: gitbook2mkdocs
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+      - run: |
+          python gitbook2mkdocs.py
+          rm gitbook2mkdocs.py
+          git config --global user.name 'UCLCSSA'
+          git config --global user.email 'uclcssa-info@users.noreply.github.com'
+          git add .
+          git commit -m "Run python"
+          git push
+          
+      - name: Deploy MkDocs
+        uses: UCLCSSA/mkdocs-deploy-gh-pages@master
+        env:
+          PERSONAL_TOKEN: ${{ secrets.HENRY_TOKEN }}
