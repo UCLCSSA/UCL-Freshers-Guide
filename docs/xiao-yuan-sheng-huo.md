@@ -66,7 +66,7 @@ UCL的学生可以通过登录online timetable网站，了解自己所有课程�
 
 小贴士：UCL Common Timetable上的课表可以同步订阅到Outlook或者Apple Calendar的，这样就不需要每次上课前都去网站上查看啦。同时，UCLCSSA学联社区也支持一键导入自己的课表，小程序扫码登录UCL账号后即可查看。
 
-![](.gitbook/assets/jie-ping-20210819-shang-wu-12.53.48.png)
+![](images/jie-ping-20210819-shang-wu-12.53.48.png)
 
 ## 校内设施
 
@@ -94,7 +94,7 @@ UCL共有16个图书馆或是自习空间。不同的图书馆会有不同领域
 
 UCLCSSA学联社区可以在线查询UCL所有图书馆的实时余位，十分方便。
 
-![UCL&#x5B66;&#x8054;&#x793E;&#x533A;](.gitbook/assets/jie-ping-20210819-shang-wu-1.56.17.png)
+![UCL&#x5B66;&#x8054;&#x793E;&#x533A;](images/jie-ping-20210819-shang-wu-1.56.17.png)
 
 
 
@@ -160,9 +160,10 @@ SU提供的各种体育项目的规模在全英是数一数二的，加入UCL校
 
 ## 求职规划
 
-{% hint style="warning" %}
-本规划由UCLCSSA总结，仅作为参考，请理性借鉴
-{% endhint %}
+!!! warning "提示" 
+
+	本规划由UCLCSSA总结，仅作为参考，请理性借鉴
+	
 
 ### 大一 \(First Year\) : Spring Week
 
@@ -176,7 +177,8 @@ Spring Week—般为期两周，在复活节期间，主要针对投行、咨询
 
 毕业后如想要留在英国在大学的最后一年，需要提前开始申请各个大公司的毕业生计划。
 
-{% hint style="info" %}
-针对不同的职业发展需要作出不同规划，**切忌盲目焦虑**。如生物相关专业的同学可以去寻找一些科研机会（可以直接给实验室老师发邮件networking）市场相关专业的同学可以积极参加一些商赛等。
-{% endhint %}
+!!! info "提示" 
+
+	针对不同的职业发展需要作出不同规划，**切忌盲目焦虑**。如生物相关专业的同学可以去寻找一些科研机会（可以直接给实验室老师发邮件networking）市场相关专业的同学可以积极参加一些商赛等。
+	
 

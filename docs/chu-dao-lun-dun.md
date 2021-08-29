@@ -42,7 +42,7 @@ UCL 宿舍入住需要携带 Confirmation Letter & Deposit Receipt，校外学�
 
 申请签证时，如果在Alternative location一栏填写了UCL的 Alternative Collection Location code\(2HE484\)，你的BRP会先送到UCL。抵达英国后，登录Portico，上传护照英国签证页贴纸，确认你目前的英国地址，包括邮编、邮箱和电话。UCL将会在确认信息后，通过皇家邮政专递送到你的宿舍。但随着今年线下课程开放，可能会开放到学校领取BRP的选项，学联将持续更新学校政策。
 
-![BRP &#x6837;&#x56FE;](.gitbook/assets/jie-ping-20210819-shang-wu-12.49.37.png)
+![BRP &#x6837;&#x56FE;](images/jie-ping-20210819-shang-wu-12.49.37.png)
 
 如果没有填写UCL的ACL code，BRP将会被送到离你的地址最近的邮局。当你的BRP可以从邮局领取时，UCL将不会联系你，你需要自己安排领取。前往邮局领取时请携带护照及UKVI的决定信（decision letter）。
 
@@ -52,25 +52,27 @@ UCL 宿舍入住需要携带 Confirmation Letter & Deposit Receipt，校外学�
 
 Ridgmount Practice是UCL合作的GP机构，距离校园也最近。但如果住宿地点离学校比较远的话，建议还是查询离自己住址最近的GP机构。在网上填写完注册表后，携带学生卡和学生状态声明信现场注册。
 
-{% hint style="info" %}
-_**Ridgmount Practice**_
+!!! info "提示" 
 
-地址：8 Ridgmount St, London WC1E 7AA
-
-距离UCL主校区步行10分钟
-{% endhint %}
+	_**Ridgmount Practice**_
+	
+	地址：8 Ridgmount St, London WC1E 7AA
+	
+	距离UCL主校区步行10分钟
+	
 
 ## 警局注册
 
 从中国前往英国留学的新生都必须完成警局注册，且**必须在入境七天内完成线上预约**。
 
-{% hint style="info" %}
-_**Overseas Visitors Records Office \(OVRO\)**_
+!!! info "提示" 
 
-323 Borough High Street, London SE1 1JL
-
-由UCL主校从Euston站上车，搭乘地铁Northern线约26分钟分钟抵达
-{% endhint %}
+	_**Overseas Visitors Records Office \(OVRO\)**_
+	
+	323 Borough High Street, London SE1 1JL
+	
+	由UCL主校从Euston站上车，搭乘地铁Northern线约26分钟分钟抵达
+	
 
 ### 线上预约
 
@@ -80,9 +82,10 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 
 ### 线下注册材料准备
 
-{% hint style="success" %}
-准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
-{% endhint %}
+!!! success "提示" 
+
+	准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
+	
 
 1. [ ] 护照
 2. [ ] BRP
@@ -91,9 +94,10 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 5. [ ] 预约证明，如邮件
 6. [ ] 信用卡、借记卡或是手机支付34镑注册费
 
-{% hint style="danger" %}
-**目前OVRO不接受现金！必须使用信用卡、借记卡或是手机支付**。
-{% endhint %}
+!!! danger "提示" 
+
+	**目前OVRO不接受现金！必须使用信用卡、借记卡或是手机支付**。
+	
 
 ## 银行开户
 
@@ -101,9 +105,10 @@ tier 4 student visa和新的student visa均在“Student”分类中。填写表
 
 ### 开户材料准备
 
-{% hint style="success" %}
-准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
-{% endhint %}
+!!! success "提示" 
+
+	准备材料时可以点击左侧的勾选框对照确认材料是否带齐哦
+	
 
 1. [ ] 带有签证页的护照
 2. [ ] BRP

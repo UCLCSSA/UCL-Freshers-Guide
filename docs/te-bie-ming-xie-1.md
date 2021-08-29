@@ -2,5 +2,5 @@
 
 ## 赞助商家
 
-![](.gitbook/assets/jie-ping-20210819-shang-wu-12.37.33.png)
+![](images/jie-ping-20210819-shang-wu-12.37.33.png)
 

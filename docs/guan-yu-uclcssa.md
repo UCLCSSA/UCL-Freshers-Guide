@@ -103,7 +103,7 @@ UCL慈善部致力于为想要了解公益的UCLer提供更好的公益慈善平
 
 ### 小程序
 
-![&#x5C0F;&#x7A0B;&#x5E8F;&#x4E8C;&#x7EF4;&#x7801;](.gitbook/assets/jie-ping-20210819-shang-wu-12.32.00.png)
+![&#x5C0F;&#x7A0B;&#x5E8F;&#x4E8C;&#x7EF4;&#x7801;](images/jie-ping-20210819-shang-wu-12.32.00.png)
 
 小程序在手，走遍 UCL 无敌手!小程序几乎具备了你在 UCL 校园需要的一切功能，不管是查询图书馆实时余位，查看专属你的 UCL 课表；还是发布二手闲置、房屋信息；亦或是查看 TFL交通状态，查看周边美食 ......
 
@@ -115,7 +115,7 @@ UCL慈善部致力于为想要了解公益的UCLer提供更好的公益慈善平
 
 ### Instagram
 
-![Instagram&#x8D26;&#x53F7;&#x4E3B;&#x9875;](.gitbook/assets/jie-ping-20210819-shang-wu-12.32.42.png)
+![Instagram&#x8D26;&#x53F7;&#x4E3B;&#x9875;](images/jie-ping-20210819-shang-wu-12.32.42.png)
 
 
 
